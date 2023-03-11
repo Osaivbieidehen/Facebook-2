@@ -255,7 +255,7 @@ body{
         /* CSS To Target 767 px width of screen */
       
         .fb-body {
-          width: 100%;
+          width: 10%;
           padding: 10px 50px;
         }
       }
