@@ -251,7 +251,7 @@ body{
       border-color: gray; 
        }
 
-       @media (min-width: 769px) and (max-width: 1440px) {
+       @media (min-width: 300px) and (max-width: 1440px) {
         /* CSS To Target 767 px width of screen */
       
         .feed {
